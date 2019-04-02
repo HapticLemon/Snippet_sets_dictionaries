@@ -10,3 +10,7 @@ Algunos otros conceptos interesantes que aparecen en el código son :
 - Deepcopy
 - Interacción de diccionarios y conjuntos
 - Función con número arbitrario de parámetros.
+
+Puedes hacer funcionar el script con :
+
+python sets_dict.py
